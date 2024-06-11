@@ -1,6 +1,6 @@
 # Polifly-demo
 Over the course of 1 month, I, alongside [Zetta360](https://github.com/Zetta360), [OVRares](https://github.com/OVRares) and 
-[MihaiPricop24](https://github.com/MihaiPricop24), developed a flight booking web app called Polifly.<br>
+[MihaiPricop24](https://github.com/MihaiPricop24), developed a flight booking web app called Polifly. 
 It uses Java for the back-end, Vaadin for the front-end, and other in-demand technologies such as Spring Boot, Gradle, and Firebase.<br><br>
 
 ### ✨ Here's a glimpse of Polifly's interface until the upcoming code release: ✨
